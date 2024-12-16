@@ -2,5 +2,5 @@
     Sidebar
 </div>
 <div style="color: {{ $settings['text_color'] ?? '#343a40' }};">
-    Text Content
+    Text Content for Master
 </div>

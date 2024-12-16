@@ -20,7 +20,7 @@
         <label for="text_color">Text Color:</label>
         <input type="color" name="text_color" value="{{ old('text_color', $settings['text_color'] ?? '') }}">
 
-        <label for="logo_color">Logo Color:</label>
+        <label for="logo_color">Logo Color for user:</label>
         <input type="color" name="logo_color" value="{{ old('logo_color', $settings['logo_color'] ?? '') }}">
 
         <button type="submit">Save</button>
