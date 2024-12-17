@@ -6,7 +6,7 @@
     <title>Settings</title>
 </head>
 <body>
-    <h1>Update Dashboard Settings new changing</h1>
+    <h1>Update Dashboard</h1>
 
     @if(session('success'))
         <p style="color: green;">{{ session('success') }}</p>
