@@ -17,7 +17,7 @@
         <!-- Links -->
         <ul class="navbar-nav">
           <li class="nav-item">
-            <a class="nav-link text-light" href="/">Product</a>
+            <a class="nav-link text-light" href="/">Products</a>
           </li>
       
         </ul>
